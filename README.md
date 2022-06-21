@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thakur0509
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning html, css, js.
-- 💞️ I’m looking to collaborate on (not on mind)
+- 💞️ I’m looking to collaborate on.
 - 📫 How to reach me kartikthakur592002@gmail.com
 
 <!---
